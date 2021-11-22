@@ -1,7 +1,7 @@
-# pomar
+# Pomar
 
 Projeto para gerenciar um Pomar em Flutter.
-O projeto salvará informações localmente em banco sqlite utilizado Drift.
+O projeto salvará informações localmente em banco sqlite utilizando Drift.
 
 ## Getting Started
 
